@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Returns most frequent words in a word document
+Returns n most frequent words in a word document
 
 n = n most frequent words in docfilename in folder
 
